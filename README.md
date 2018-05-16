@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-$ pip sphinx recommonmark sphinx_rtd_theme sphinx-autobuild nbsphinx sphinx_fontawesome
+$ pip install sphinx recommonmark sphinx_rtd_theme sphinx-autobuild nbsphinx sphinx_fontawesome
 ```
 
 ## Setting
